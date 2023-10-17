@@ -52,7 +52,7 @@ Fiber 调度的优点：
 
 ```jsx
 <div className="sanmu" sex="male">
-  <p>三木</p>
+  <p>青石</p>
 </div>
 ```
 

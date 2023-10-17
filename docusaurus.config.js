@@ -6,9 +6,9 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (
   module.exports = {
-    title: '三木',
+    title: '青石',
     tagline:
-      '三木技术分享',
+      '青石技术分享',
     url: 'https://sanmustudy.cn',
     baseUrl: '/',
     favicon: 'img/logo.png',
@@ -59,9 +59,9 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
         ],
         navbar: {
           hideOnScroll: true,
-          title: "三木小站",
+          title: "青石小驿",
           // logo: {
-          //   alt: '三木',
+          //   alt: '青石',
           //   src: 'img/logo.png',
           //   srcDark: 'img/docsearch-logo-white.svg',
           // },

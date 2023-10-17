@@ -7,8 +7,8 @@ function HomePage() {
   return (
     <>
       <Layout
-        title="三木学习小站"
-        description="三木的学习笔记"
+        title="青石学习小驿"
+        description="青石的学习笔记"
       >
         <Home />
       </Layout>
