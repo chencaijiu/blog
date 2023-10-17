@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "7bdabe297270caf8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c6321344058417d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4703261f2692537a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "react/react-router.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e08f47cc6ebc49a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8449d4f9b1bb466b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db18409ca5d95b94",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "17128b8f3f84e3db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f48d81d5431d648b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "eddc28d4ce02c792",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "515df11971739470",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e59d97871f3b79c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4945f33fe696e7b9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "react/react-router.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b4a56cd351ba0d7d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "react/react-router.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3a9bc53d6c6b2292",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9ca866b4307218aa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "react/react-router.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "4703261f2692537a",
+  "lastOpenFiles": [
+    "vben/7.国际化.md",
+    "react/flow.md",
+    "react/assets/4.png",
+    "react/assets/3.png",
+    "react/assets/2.png",
+    "mysql/mongodb.md",
+    "mysql/assets/8.png",
+    "mysql/assets/7.png",
+    "mysql/assets/5.png",
+    "mysql/assets/5-1.png",
+    "mysql/assets/4.png",
+    "mysql/assets/3.png",
+    "mysql/assets/2.png",
+    "mysql/assets",
+    "backend/NodeJs发送邮件.md",
+    "backend/email.md",
+    "backend/assets",
+    "react/react-router.md",
+    "react/assets",
+    "vben/7. 国际化.md",
+    "vben/5.  路由.md",
+    "vue-vben-admin/5.  路由.md",
+    "vue/1.为什么学习Vue.md",
+    "vben/数据联调.md",
+    "vben/数据mock&联调服务.md",
+    "vben/assets",
+    "vben/6. 跟着vben学习env的妙用.md",
+    "vben/4. 页面布局.md",
+    "vben/3. 目录解析.md",
+    "vben/2. 功能演示.md",
+    "vben/1. introduce.md",
+    "vben",
+    "vue-vben-admin/数据联调.md",
+    "vue-vben-admin/数据mock&联调服务.md",
+    "vue-vben-admin/4. 页面布局.md",
+    "vue-vben-admin/3. 目录解析.md",
+    "vue-vben-admin/2. 功能演示.md",
+    "vue-vben-admin/1. 项目初识.md",
+    "docker/basic.md",
+    "nocobase/项目初识.md",
+    "nocobase/1.项目初识.md",
+    "other/window 无法启动 docker desktop",
+    "nestjs",
+    "mysql/数据库的基本操作",
+    "mysql/启动",
+    "go",
+    "mysql/数据库的基本操作/Untitled.canvas"
+  ]
+}
