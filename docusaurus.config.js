@@ -32,8 +32,8 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
             //   },
             // },
             // lastVersion: 'current',
-            // showLastUpdateAuthor: true,
-            // showLastUpdateTime: true,
+            showLastUpdateAuthor: true,
+            showLastUpdateTime: true,
           },
           theme: {
             customCss: require.resolve('./src/css/custom.css'),
