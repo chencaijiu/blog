@@ -9,11 +9,11 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
     title: '青石',
     tagline:
       '青石技术分享',
-    url: 'https://sanmustudy.cn',
+    url: 'https://www.qingshistudy.cn',
     baseUrl: '/',
     favicon: 'img/logo.png',
-    organizationName: 'SanMu',
-    projectName: 'SanMuBlog',
+    organizationName: 'QingShi',
+    projectName: 'QingShiBlog',
     // onBrokenLinks: 'throw',
     // onBrokenMarkdownLinks: 'throw',
     presets: [
@@ -33,7 +33,7 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
             // },
             // lastVersion: 'current',
             showLastUpdateAuthor: true,
-            showLastUpdateTime: true,
+            // showLastUpdateTime: true,
           },
           theme: {
             customCss: require.resolve('./src/css/custom.css'),
