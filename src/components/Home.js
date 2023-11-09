@@ -43,7 +43,7 @@ function Home() {
               <FontAwesomeIcon icon={faGithub} size="xl" />
             </a>
           </Grid>
-          <Grid item>
+          {/* <Grid item>
             <a href="https://space.bilibili.com/101706573" >
               <FontAwesomeIcon icon={faBilibili} size="xl" />
             </a>
@@ -52,7 +52,7 @@ function Home() {
             <a href="javascript:void(0)" onClick={() => setOpen(true)}>
               <FontAwesomeIcon icon={faWeixin} size="xl" />
             </a>
-          </Grid>
+          </Grid> */}
         </Grid>
         <Modal
           open={open}
